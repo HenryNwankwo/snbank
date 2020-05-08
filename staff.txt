@@ -1,0 +1,3 @@
+username,password,email,fullname
+momeni,turning,momeni@gmail.com,ifunanya ogboji
+bukkyseven,77black,bukky@gmail.com, ebuka obasi
