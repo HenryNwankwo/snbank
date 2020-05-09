@@ -8,8 +8,13 @@ while True:
             password = input('Enter your password: ')
 
             with open('staff.txt', 'r') as staffFile:
-                data = staffFile.read()
-                print(data)
+                data = staffFile.readlines()
+                lineNumber = 0
+                for line in data:
+                    lineNumber += 1
+                    for username in
+                    print(usernameFound)
+
         else:
             break
 
